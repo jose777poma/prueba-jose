@@ -1,1 +1,4 @@
 login
+este login
+fue modifciado
+mientras se hacia el inventario
